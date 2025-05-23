@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kathigammeneelaveni/pop-assignment/static/css/main.e6c13ad2.css",
+    "main.js": "/kathigammeneelaveni/pop-assignment/static/js/main.149acc96.js",
+    "static/js/453.3c4b86b9.chunk.js": "/kathigammeneelaveni/pop-assignment/static/js/453.3c4b86b9.chunk.js",
+    "index.html": "/kathigammeneelaveni/pop-assignment/index.html",
+    "main.e6c13ad2.css.map": "/kathigammeneelaveni/pop-assignment/static/css/main.e6c13ad2.css.map",
+    "main.149acc96.js.map": "/kathigammeneelaveni/pop-assignment/static/js/main.149acc96.js.map",
+    "453.3c4b86b9.chunk.js.map": "/kathigammeneelaveni/pop-assignment/static/js/453.3c4b86b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.149acc96.js"
+  ]
+}
